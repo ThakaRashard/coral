@@ -8,6 +8,22 @@ One day my blog will `RETURN true` when run from the [command](https://www.youtu
 
 ## DEAR_CORAL
 
+<iframe width="100%" height="503" src="https://www.youtube.com/embed/jxyYP_bS_6s" title="Self Destruction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="100%" height="503" src="https://www.youtube.com/embed/Pmg6c0PASYk" title="N.W.A., King Tee, Ice-T, MC Hammer, Tone-Loc, etc. - We're All In The Same Gang (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="100%" height="503" src="https://www.youtube.com/embed/1POru2g5mQU" title="MC Lyte - Paper Thin (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="100%" height="503" src="https://www.youtube.com/embed/tAhp17Mp7Xs" title="Kris Kross - Warm It Up (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="100%" height="503" src="https://www.youtube.com/embed/f8cHxydDb7o" title="Queen Latifah - U.N.I.T.Y. (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/EsyUa63NM1E" title="Musical Youth - Pass The Dutchie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/RZUq6N7Gx1c" title="New Edition - Cool It Now (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/ZDPIK7Fz_g4" title="Another Bad Creation - Iesha (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/HdVPZQR04lo" title="The Puppies - Funky Y-2-C (Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/MwOzqLYM6S8" title="Monie Love - Monie in the Middle (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
