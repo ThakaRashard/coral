@@ -8,6 +8,10 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 
 ## DEAR_CORAL
 
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/P6IUuws9ylc" title="I Never Wanna Live Without You" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/PPt_pigSZdg" title="Don't Go" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/Ya2WikYW5wI" title="Changes I've Been Going Through" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/TrUERC2Zk64" title="Common - I Used to Love H.E.R." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
