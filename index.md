@@ -8,8 +8,7 @@ One day my blog will `RETURN true` when run from the [command](https://www.youtu
 
 ## DEAR_CORAL
 
-[Doomsday](https://www.youtube.com/watch?v=kHBHDWpK1yo)
-
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/TrUERC2Zk64" title="Common - I Used to Love H.E.R." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="502" src="https://www.youtube.com/embed/_qzacv8dtb4" title="The Roots - What They Do (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="100%" height="502" src="https://www.youtube.com/embed/eeTnog5RRQo" title="Blackstar - Respiration ft. Common" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -58,12 +57,7 @@ One day my blog will `RETURN true` when run from the [command](https://www.youtu
 
  <div class="neonText">
 ## Hole to another universe 
- <ul>
-    <li>1 # HOLE_TO_ANOTHER_UNiVERSE###BLOG######################</li>
-    <li>2 # TO###MY_RESUME#######################################</li>
-    <li>3 # ANOTHER###SANDBOX####################################</li>
-    <li>4 # UNiVERSALCONTACKT####################################</li>
- </ul>
+
  {% highlight python %}
 1 # HOLE_TO_ANOTHER_UNiVERSE##############################
 2 # TO####################################################
