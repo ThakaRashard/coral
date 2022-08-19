@@ -8,54 +8,21 @@ One day my blog will `RETURN true` when run from the [command](https://www.youtu
 
 ## DEAR_CORAL
 
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/HdVPZQR04lo" title="The Puppies - Funky Y-2-C (Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/MwOzqLYM6S8" title="Monie Love - Monie in the Middle (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-[Gotye - Somebody That I Used To Know (feat. Kimbra)](https://www.youtube.com/watch?v=8UVNT4wvIGY)
 <img src="https://www.typedifferent.com/fonts/bd_doomed/bd_doomed_example1.jpg">
 <img src="https://www.typedifferent.com/fonts/bd_doomed/bd_doomed_example2.jpg" >
 
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/Zi_XLOBDo_Y" title="Michael Jackson - Billie Jean (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Design a responsive site with em-based sizing](https://www.creativebloq.com/how-to/design-a-responsive-site-with-em-based-sizing)
-<iframe width="100%" height="611" src="https://www.youtube.com/embed/7xxgRUyzgs0" title="Living Colour - Cult Of Personality (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ["Teenage Mutant Ninja Turtles (1990)" Theatrical Trailer](https://www.youtube.com/watch?v=Dh2u6Cw2clE)
-<iframe width="100%" height="458" src="https://www.youtube.com/embed/DzkhVVFRIIg" title="Crouching Tiger, Hidden Dragon: Jen vs. Shu Lien Sword Fight (Michelle Yeoh Fight Scene)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="631" height="355" src="https://www.youtube.com/embed/omuNJ0d1Q7Q" title="Crouching Tiger, Hidden Dragon: Jade Fox Fight Scene" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-[Hero -TRAiLER(2002)](https://www.youtube.com/watch?v=erY3F-MFYYo)
-
-<iframe width="631" height="340" src="https://www.youtube.com/embed/H0b9wvJfO28" title="Enter The Dragon(1973) - Original Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-## DEAR_MUNA:: 
-[Hook: Jim James]
-Dear God, I'm trying hard to reach you
-Dear God, I see your face in all I do
-Sometimes, it's so hard to believe in
-But God, I know you have your reasons
-
-[Verse 2: Black Thought](https://genius.com/The-roots-dear-god-20-lyrics)
-Uh-huh, yeah, it's still me, one of your biggest fans
-I get off work, right back to work again
-I probably need to go ahead and have my head exam
-Look how they got me on the Def Jam payment plan
-Well, I'm in the world of entertainment and
-Tryna keep a singing man sane for the paying fans
-If I don't make it through the night, slight change of plans
-Harp strings, angel wings and praying hands
-Lord, forgive me for my shortcomings
-For going on tour and ignoring the court summons
-All I'm tryna do is live life to the fullest
-They sent my daddy to you in a barrage of bullets
-Why is the world ugly when you made it in your image?
-And why is living life such a fight to the finish?
-For this high percentage, when the sky's the limit
-A second is a minute, every hour's infinite
-<iframe width="100%" height="502" src="https://www.youtube.com/embed/32Qr5oKKP-M" title="The Roots - Dear God 2.0 ft. Monsters Of Folk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-[CSS Grid Layout model | Explained](https://linuxhint.com/css-grid-layout-model/) 
-<iframe width="100%" height="502" src="https://www.youtube.com/embed/-8BEKvoetHo" title="Oromia Pastoralist Association, Ethiopia/Kenya - Equator Prize 2015 Winner" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <img src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/Illustrator_v5.5_Disk_1_Installer_0199_7626Adobe_Systems_Inc.May_1994_Front_1000x.png" alt="iLLUSTRATOR_ON_FLOPPY" >
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/bW-74U5xuf4" title="FX the video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<img src="https://raw.githubusercontent.com/ThakaRashard/BUBBLEGUMPOP_MUNA/master/assets/images/MunaisMYWiFE.PNG" alt="##HUMA_AHMED_SELASSIE_IS_MY_SISTER_ASWELL_AS_TASHI_and_ERIKA_iN_CHRiST_SARTU_iN_ADOPTiON" >
+
 <iframe width="100%" height="601" src="https://www.youtube.com/embed/FJZ-BHBKyos" title="[HD] Greatest Hollywood Car Chase of All Time - Bullitt (1968)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="601" src="https://www.youtube.com/embed/TYw-xygF5Pc" title="775 hp Supercharged Bullitt Mustang Steve McQueen Edition from Steeda" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <img src="https://raw.githubusercontent.com/ThakaRashard/BUBBLEGUMPOP_MUNA/master/assets/images/muna_i_wanna_BULLiT_LiKE_JEFFS7.PNG">
