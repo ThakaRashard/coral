@@ -8,9 +8,21 @@ One day my blog will `RETURN true` when run from the [command](https://www.youtu
 
 ## DEAR_CORAL
 
-<iframe width="100%" height="503" src="https://www.youtube.com/embed/jxyYP_bS_6s" title="Self Destruction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Doomsday](https://www.youtube.com/watch?v=kHBHDWpK1yo)
 
-<iframe width="100%" height="503" src="https://www.youtube.com/embed/Pmg6c0PASYk" title="N.W.A., King Tee, Ice-T, MC Hammer, Tone-Loc, etc. - We're All In The Same Gang (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="502" src="https://www.youtube.com/embed/_qzacv8dtb4" title="The Roots - What They Do (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="100%" height="502" src="https://www.youtube.com/embed/eeTnog5RRQo" title="Blackstar - Respiration ft. Common" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="100%" height="670" src="https://www.youtube.com/embed/fXJc2NYwHjw" title="Souls Of Mischief - 93 'Til Infinity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="100" height="500" src="https://www.youtube.com/embed/a-mAK3uB2_0" title="The Pharcyde - Passin' Me By (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/JZ0DVSPJzdg" title="A.T.H.F. (Aqua Teen Hunger Force)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/jxyYP_bS_6s" title="Self Destruction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/Pmg6c0PASYk" title="N.W.A., King Tee, Ice-T, MC Hammer, Tone-Loc, etc. - We're All In The Same Gang (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="100%" height="503" src="https://www.youtube.com/embed/1POru2g5mQU" title="MC Lyte - Paper Thin (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
