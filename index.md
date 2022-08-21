@@ -9,6 +9,10 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 ## DEAR_CORAL
 
 ## GRAPHiC_DESiGN_RESOURCES
+[Developer Decisions For Building Flexible Components](https://www.smashingmagazine.com/2021/09/developer-decisions-building-flexible-components/)
+One of the key skills of a front-end developer is to be able to take designs and turn them into code. These designs are often presented as static mock-ups, which visualize the “ideal” experience of browsing the website.
+[ReadMore](Developer Decisions For Building Flexible Components)
+
 [The Guide To Windows High Contrast Mode](https://www.smashingmagazine.com/2022/06/guide-windows-high-contrast-mode/)
 In this article, we’ll see how to make our sites friendly for Windows High Contrast Mode. We’ll check a good set of practices we can use for that purpose, and we’ll see the use of the media query forced-colors and its toolset to tweak our website as needed...[ReadMore](https://www.smashingmagazine.com/2022/06/guide-windows-high-contrast-mode/)
 
