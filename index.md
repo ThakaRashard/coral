@@ -9,6 +9,9 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 ## DEAR_CORAL
 
 ## GRAPHiC_DESiGN_RESOURCES
+[The Guide To Windows High Contrast Mode](https://www.smashingmagazine.com/2022/06/guide-windows-high-contrast-mode/)
+In this article, we’ll see how to make our sites friendly for Windows High Contrast Mode. We’ll check a good set of practices we can use for that purpose, and we’ll see the use of the media query forced-colors and its toolset to tweak our website as needed...[ReadMore](https://www.smashingmagazine.com/2022/06/guide-windows-high-contrast-mode/)
+
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/327956090?h=6b1a4743d3&color=0099ff&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <img src="https://www.oozlemedia.com/wp-content/uploads/2015/04/Oozle-Blog-Header-Jul2018.png">
 
