@@ -9,6 +9,11 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 ## DEAR_CORAL
 
 ## GRAPHiC_DESiGN_RESOURCES
+[Overcoming Imposter Syndrome By Developing Your Own Guiding Principles ::even4pplWHOknewUiNahPassLifetime](https://www.smashingmagazine.com/2022/07/overcoming-imposter-syndrome-developing-guiding-principles/)
+Design is one of those disciplines that has a very low barrier to entry. But what isn’t so easy is acquiring the softer skills that you’ll need when entering this job market. Unfortunately, not everyone has access to a mentor or a guide, which is why we often have to rely on “working it out” by ourselves. In this article, Luis Ouriach tries to help you in this task so that you can walk into the design critique meetings with more confidence and really deliver the best representation of your ideas.
+[ReadMore...](https://www.smashingmagazine.com/2022/07/overcoming-imposter-syndrome-developing-guiding-principles/)
+[Color Tools And Resources](https://www.smashingmagazine.com/2021/07/color-tools-resources/)
+[Free Open-Source Icons](https://www.smashingmagazine.com/2021/08/open-source-icons/)
 [Developer Decisions For Building Flexible Components](https://www.smashingmagazine.com/2021/09/developer-decisions-building-flexible-components/)
 One of the key skills of a front-end developer is to be able to take designs and turn them into code. These designs are often presented as static mock-ups, which visualize the “ideal” experience of browsing the website.
 [ReadMore](Developer Decisions For Building Flexible Components)
