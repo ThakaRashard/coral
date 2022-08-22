@@ -7,6 +7,7 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 
 
 ## DEAR_CORAL
+<iframe width="854" height="100%" src="https://www.youtube.com/embed/O-yiOxptejs" title="Table Manners (1947)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/p45T7U5oi9Q" title="The Dial Comes To Town" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### me & ya_Mamah act like dis...
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/3D_srHpH6jg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
