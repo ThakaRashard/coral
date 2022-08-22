@@ -7,6 +7,7 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 
 
 ## DEAR_CORAL
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/9GTBMGUUz6I" title="Habit Patterns (1954)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 [NASA_DOCS](https://ntrs.nasa.gov/api/citations/19760012966/downloads/19760012966.pdf)
 [NASA_DOCs](https://www.nasa.gov/sites/default/files/atoms/files/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf)
 <iframe width="100%" height="50%" src="https://www.youtube.com/embed/O-yiOxptejs" title="Table Manners (1947)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
