@@ -7,6 +7,10 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 
 
 ## DEAR_CORAL
+## First Track!!!
+Im digging through some books at Central Library and discovering a lot of [STELLAR_BLUE_NOTE_JAZZ_RECORDS](https://www.bluenote.com/)
+
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/jZayfhnaNk8" title="Baby Face Willette – Behind the 8 Ball  (1964)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/1kKp5dSbveAtH9KmuGP6z9?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 [You can configure your GitHub Pages site to publish](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
