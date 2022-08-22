@@ -7,6 +7,8 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 
 
 ## DEAR_CORAL
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/1kKp5dSbveAtH9KmuGP6z9?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 [You can configure your GitHub Pages site to publish](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/555176499&color=%23c6a296&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/caveman89" title="Caveman Music + Mixes" target="_blank" style="color: #cccccc; text-decoration: none;">Caveman Music + Mixes</a> · <a href="https://soundcloud.com/caveman89/vinroc-ed-swift-audio-animation-01_side_a" title="Vinroc &amp; Ed Swift Audio Animation 01_Side_A" target="_blank" style="color: #cccccc; text-decoration: none;">Vinroc &amp; Ed Swift Audio Animation 01_Side_A</a></div>
