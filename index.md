@@ -8,6 +8,12 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 
 ## DEAR_CORAL
 
+<p class="codepen" data-height="300" data-theme-id="light" data-default-tab="html,result" data-slug-hash="zYWXBKW" data-user="thakarashard" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/thakarashard/pen/zYWXBKW">
+  CodePen Home Learn CSS - Extrinsic sizing vs intrinsic sizing</a> by ThakaRashard (<a href="https://codepen.io/thakarashard">@thakarashard</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 <img src="https://i.discogs.com/eNB-1tup96gNwkzmFMKNyPGP7ov5F0I8PTYa9wjw7JU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwODcz/My0xMzI3MzYyMzM3/LmpwZWc.jpeg">
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/50nRFfP7eymMb2rfSffMr9?utm_source=generator" width="100%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
