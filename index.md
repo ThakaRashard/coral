@@ -7,7 +7,7 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 
 
 ## DEAR_CORAL
-
+<img src="http://adb.arcadeitalia.net/media/mame.current/flyers/nibbler.png?release=205">
 <p class="codepen" data-height="300" data-theme-id="light" data-default-tab="html,result" data-slug-hash="zYWXBKW" data-user="thakarashard" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/thakarashard/pen/zYWXBKW">
   CodePen Home Learn CSS - Extrinsic sizing vs intrinsic sizing</a> by ThakaRashard (<a href="https://codepen.io/thakarashard">@thakarashard</a>)
