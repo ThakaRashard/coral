@@ -7,6 +7,9 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 
 
 ## DEAR_CORAL
+
+[New Edition - If It Isn't Love (Official Music Video)](https://www.youtube.com/watch?v=ReI6gvzVP0Y)
+
 <img src="http://adb.arcadeitalia.net/media/mame.current/flyers/nibbler.png?release=205">
 <p class="codepen" data-height="300" data-theme-id="light" data-default-tab="html,result" data-slug-hash="zYWXBKW" data-user="thakarashard" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/thakarashard/pen/zYWXBKW">
