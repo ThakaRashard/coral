@@ -10,6 +10,7 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 
 <img src="https://i.discogs.com/eNB-1tup96gNwkzmFMKNyPGP7ov5F0I8PTYa9wjw7JU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwODcz/My0xMzI3MzYyMzM3/LmpwZWc.jpeg">
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/50nRFfP7eymMb2rfSffMr9?utm_source=generator" width="100%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 ## First Track!!!
 Im digging through some books at Central Library and discovering a lot of [STELLAR_BLUE_NOTE_JAZZ_RECORDS](https://www.bluenote.com/)
 
