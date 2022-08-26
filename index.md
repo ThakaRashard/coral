@@ -9,9 +9,27 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 
+<iframe src="https://archive.org/embed/arcade_spidman" width="100%" height="400" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+<a href="https://youtu.be/0KFzMhjpCcM"><img src="https://m.media-amazon.com/images/I/71KiN5cJ7dL._AC_UY879_.jpg"></a>
+        </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+
+<a href="https://youtu.be/0KFzMhjpCcM"><img src="https://m.media-amazon.com/images/I/71KiN5cJ7dL._AC_UY879_.jpg"></a>
+         </div>
+    </div>
+  </div>
+</div>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1330326172&color=%23a04c5c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;"><a href="https://soundcloud.com/user-825102264-496320048" title="𝐔𝐍𝐑𝐄𝐋𝐄𝐀𝐒𝐄𝐃" target="_blank" style="color: #cccccc; text-decoration: none;">𝐔𝐍𝐑𝐄𝐋𝐄𝐀𝐒𝐄𝐃</a> · <a href="https://soundcloud.com/user-825102264-496320048/cactus" title="SZA - Eureka" target="_blank" style="color: #cccccc; text-decoration: none;">SZA - Eureka</a></div>
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/MBaSdi9bWws" title="Eureeka's Castle #1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 # Jekyll_Headings
 
