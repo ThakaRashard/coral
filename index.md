@@ -9,6 +9,7 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/880789270&color=%23c46929&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; "><a href="https://soundcloud.com/janineofficial" title="Janine" target="_blank" style="color: #cccccc; text-decoration: none;">Janine</a> · <a href="https://soundcloud.com/janineofficial/best-thing" title="Best Thing" target="_blank" style="color: #cccccc; text-decoration: none;">Best Thing</a></div>
 <iframe width="100%" height="355" src="https://www.youtube.com/embed/EYYc3zs2kg8" title="The First Corvette -- 1953 Corvette" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="350" src="https://www.youtube.com/embed/dOqkUnyE_JQ" title="How Iced Out Queen, Kash Doll, Went From Dancing To Being A Top Female Rapper | Blew A Bag" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
