@@ -3,6 +3,58 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 
+
+# Jekyll_Headings
+
+<hr>
+
+# HEADiNG1
+## HEADinG2
+### HEADiNG3
+#### HEADinG4
+##### HEADiNG5
+###### HEADiNG6
+<hr>
+
+# HTML_HEADiNGS
+<h1>Heading 1</h1>
+<h2>Heading 2</h2>
+<h3>Heading 3</h3>
+<h4>Heading 4</h4>
+<h5>Heading 5</h5>
+<h6>Heading 6</h6>
+
+<hr>
+ {% highlight python %}
+
+# Jekyll_Headings
+
+<hr>
+
+# HEADiNG1
+## HEADinG2
+### HEADiNG3
+#### HEADinG4
+##### HEADiNG5
+###### HEADiNG6
+<hr>
+
+# HTML_HEADiNGS
+<h1>Heading 1</h1>
+<h2>Heading 2</h2>
+<h3>Heading 3</h3>
+<h4>Heading 4</h4>
+<h5>Heading 5</h5>
+<h6>Heading 6</h6>
+
+<hr>
+
+1 # HOLE_TO_ANOTHER_UNiVERSE##############################
+2 # TO####################################################
+3 # ANOTHER###############################################
+4 # UNiVERSE##############################################
+{% endhighlight %}
+<hr>
 <iframe width="100%" height="360" src="https://www.youtube.com/embed/jfKfPfyJRdk" title="lofi hip hop radio - beats to relax/study to" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <img src="https://assets.hermes.com/is/image/hermesedito/P_11_2009_Birkin?fit=wrap%2C0&wid=730">
 ## Dear Coral, Tori and Erika did well, I wanna hear your music
