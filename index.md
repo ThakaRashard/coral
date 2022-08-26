@@ -9,6 +9,7 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 
+<iframe width="100%" height="355" src="https://www.youtube.com/embed/EYYc3zs2kg8" title="The First Corvette -- 1953 Corvette" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="350" src="https://www.youtube.com/embed/dOqkUnyE_JQ" title="How Iced Out Queen, Kash Doll, Went From Dancing To Being A Top Female Rapper | Blew A Bag" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe src="https://archive.org/embed/arcade_spidman" width="100%" height="400" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
