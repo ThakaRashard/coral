@@ -7,6 +7,11 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 
 
 ## DEAR_CORAL
+Share this post with ur mom! I think she would dig Cyhi and this Kanye presented Gospel_Song ##EVERYHOUR_iS_AN_AUDiO_ODDESSEY
+
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/1WnqWQcWcuQbVzgE7ecfCY?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<a href=""><img src="https://media.pitchfork.com/photos/5a09ff5c5ba42932513caa25/master/pass/CyHi%20the%20Prynce_No%20Dope%20On%20Sundays.jpg"></a>
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/79yQxmlPsMM41NH3AiVSNK?utm_source=generator" width="100%" height="290" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 [New Edition - If It Isn't Love (Official Music Video)](https://www.youtube.com/watch?v=ReI6gvzVP0Y)
 
