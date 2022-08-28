@@ -9,6 +9,8 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 
+
+[Can we talk about web design?](https://web.archive.org/web/20080605234605/http://www.thenoodleincident.com/tutorials/design_rant/)
 [NYPLBase The Library's rapid prototyping system and design pattern library](nypl.github.io/NYPLBase/styleguide/index.html)
 
 [NYPL_STYLEGUiDE]_ARCHiVE](https://web.archive.org/web/20080617044807/http://www.nypl.org/styleguide/)
