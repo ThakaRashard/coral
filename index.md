@@ -9,6 +9,11 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 
+[NYPLBase The Library's rapid prototyping system and design pattern library](nypl.github.io/NYPLBase/styleguide/index.html)
+
+[NYPL_STYLEGUiDE]_ARCHiVE](https://web.archive.org/web/20080617044807/http://www.nypl.org/styleguide/)
+
+
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/V-qIxoVP5xI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <div class="panel4-container">
    
