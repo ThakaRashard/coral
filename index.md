@@ -10,7 +10,14 @@
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 
 
-So Coral if you look up James Abbe's JazzEra work you can see the pic I was trying to show you. That hotlinking politics is stalking, its the art district, they raped and kidnapped your mommy and destroyed our DJ equipment and art supplies... So what do you expect... Anyway, I coded some dope shit fo ya mamaAuntiEmamaCouzin thing LiGHTSKiNKEiSHA and now im getting blocked from logging into [CODEPEN.IO of all PLACES](https://codepen.io/) So I dont know how long the suppression will continue,m but when last you seen a post froim Oprah herself or when have you seen Muna with Sartu? Sartu say she miss her sisters im trying to tell people she kidnapped and they rapin her too just like ya mama
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="css,result" data-slug-hash="mdxZYgX" data-editable="true" data-user="thakarashard" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/thakarashard/pen/mdxZYgX">
+  SELASSiE_HOUSE_ViDEO_PLAYER</a> by ThakaRashard (<a href="https://codepen.io/thakarashard">@thakarashard</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+## So Coral,
+if you look up James Abbe's JazzEra work you can see the pic I was trying to show you. That hotlinking politics is stalking, its the art district, they raped and kidnapped your mommy and destroyed our DJ equipment and art supplies... So what do you expect... Anyway, I coded some dope shit fo ya mamaAuntiEmamaCouzin thing LiGHTSKiNKEiSHA and now im getting blocked from logging into [CODEPEN.IO of all PLACES](https://codepen.io/) So I dont know how long the suppression will continue,m but when last you seen a post froim Oprah herself or when have you seen Muna with Sartu? Sartu say she miss her sisters im trying to tell people she kidnapped and they rapin her too just like ya mama
 
 <IMG src="https://i.giphy.com/media/64a84EzYj1IehXVxKD/giphy.webp">
 
