@@ -8,7 +8,7 @@
 
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
-<IMG src="https://www.jamesabbe.com/wp-content/plugins/justified-image-grid/timthumb.php?src=https%3A%2F%2Fwww.jamesabbe.com%2Fwp-content%2Fgallery%2Fjazz-age%2FAbbeArchive_059-Cooper-Novello-1.jpg&h=990&w=990&q=90&f=.jpg" alt="pictured_SYMBOLiKLY = $HUMA">
+<IMG src="https://www.jamesabbe.com/wp-content/plugins/justified-image-grid/timthumb.php?src=https%3A%2F%2Fwww.jamesabbe.com%2Fwp-content%2Fgallery%2Fjazz-age%2FAbbeArchive_059-Cooper-Novello-1.jpg&h=990&w=990&q=90&f=.jpg" alt="pictured_SYMBOLiKLY = ##$CORAL">
 
 [FREEDOM_ARCHiVE](https://99books.freedomarchives.org/)
 <IMG src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/Screenshot%202022-08-29%209.04.53%20AM.png">
