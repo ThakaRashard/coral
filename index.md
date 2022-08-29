@@ -8,6 +8,11 @@
 
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
+
+
+<a href="https://digyourownhole25.thechemicalbrothers.com/"><IMG src="https://live.staticflickr.com/3588/3414626465_73d84a61c8_c.jpg"></a>
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/0FjHy5dCyVROqDUl6f2VTK?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<img src="https://gregletson.files.wordpress.com/2017/11/547495.jpg">
 <IMG src="https://e4p7c9i3.stackpathcdn.com/wp-content/uploads/2019/12/13-16.jpg">
 <IMG src="https://collectionimages.npg.org.uk/large/mw88464/The-wedding-of-Nancy-Beaton-and-Sir-Hugh-Houston-Smiley-3rd-Bt.jpg">
 
