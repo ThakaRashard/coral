@@ -8,6 +8,9 @@
 
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
+
+[How Tatler cover star Tallulah Bankhead became the inspiration for Disney’s Cruella de Vil](https://www.tatler.com/article/tallulah-bankhead-cruella-de-vil)
+
 <IMG src="https://media.vanityfair.com/photos/60ad0575d4ff60d336a0244c/4:3/w_1776,h_1332,c_limit/Tallulah-Bankhead-1932-tout.jpg">
 <IMG src="https://platypus1917.org/wp-content/uploads/image2.png">
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/61481849&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 20px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; "><a href="https://soundcloud.com/scotchbonnet" title="scotchbonnet" target="_blank" style="color: #cccccc; text-decoration: none;">scotchbonnet</a> · <a href="https://soundcloud.com/scotchbonnet/kenny-rogers-the-gambler" title="Kenny Rogers - The Gambler" target="_blank" style="color: #cccccc; text-decoration: none;">Kenny Rogers - The Gambler</a></div>
