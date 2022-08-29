@@ -8,6 +8,23 @@
 
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
+
+
+So Coral if you look up James Abbe's JazzEra work you can see the pic I was trying to show you. That hotlinking politics is stalking, its the art district, they raped and kidnapped your mommy and destroyed our DJ equipment and art supplies... So what do you expect... Anyway, I coded some dope shit fo ya mamaAuntiEmamaCouzin thing LiGHTSKiNKEiSHA and now im getting blocked from logging into [CODEPEN.IO of all PLACES](https://codepen.io/) So I dont know how long the suppression will continue,m but when last you seen a post froim Oprah herself or when have you seen Muna with Sartu? Sartu say she miss her sisters im trying to tell people she kidnapped and they rapin her too just like ya mama
+
+<IMG src="https://i.giphy.com/media/64a84EzYj1IehXVxKD/giphy.webp">
+
+```
+ 404
+I'm afraid you've found a page that doesn't exist on CodePen. That can happen when you follow a link to something that has since been deleted. Or the link was incorrect to begin with.
+
+Sorry about that. We've logged the error for review, in case it's our fault.
+
+Go to the homepage
+Contact Support
+Visit Documentation
+```
+
 <IMG src="https://www.jamesabbe.com/wp-content/plugins/justified-image-grid/timthumb.php?src=https%3A%2F%2Fwww.jamesabbe.com%2Fwp-content%2Fgallery%2Fjazz-age%2FAbbeArchive_059-Cooper-Novello-1.jpg&h=990&w=990&q=90&f=.jpg" alt="pictured_SYMBOLiKLY = ##$CORAL">
 
 [FREEDOM_ARCHiVE](https://99books.freedomarchives.org/)
