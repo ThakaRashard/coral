@@ -9,7 +9,7 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 
-
+<a href="https://designshack.net/articles/css/inner-shadows-in-css-images-text-and-beyond/"><IMG src="https://designshack.net/wp-content/uploads/innerinsetshadow-9.jpg"></a>
 <p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="css,result" data-slug-hash="mdxZYgX" data-editable="true" data-user="thakarashard" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/thakarashard/pen/mdxZYgX">
   SELASSiE_HOUSE_ViDEO_PLAYER</a> by ThakaRashard (<a href="https://codepen.io/thakarashard">@thakarashard</a>)
