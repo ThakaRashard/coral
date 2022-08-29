@@ -9,6 +9,7 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 
+[Chrome Developer Tools Tutorial - How to Inspect Elements and Test CSS](https://www.youtube.com/watch?v=s0RI4IXKE_o)
 
 [LOS ANGELES: OLDEST KNOWN PHOTOGRAPHS, A true Old World compilation, Antiquitech, Aqueduct, Tunnels](https://www.youtube.com/watch?v=vGTrD2GUm5Q)
 
