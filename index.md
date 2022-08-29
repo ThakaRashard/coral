@@ -8,6 +8,11 @@
 
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
+
+
+<a href="https://music.amontobin.com/album/supermodified"><IMG src="https://f4.bcbits.com/img/0003778798_10.jpg"></a>
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/54zaC0AviuCfkDwHsUJIra?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 [New York City 1997](https://www.youtube.com/watch?v=V3V5X2mKUCo)
 [What's on the rooftops of New York's most famous skyscrapers? - IT'S HISTORY](https://www.youtube.com/watch?v=vliJD7LDdIA)
 [Chrome Developer Tools Tutorial - How to Inspect Elements and Test CSS](https://www.youtube.com/watch?v=s0RI4IXKE_o)
