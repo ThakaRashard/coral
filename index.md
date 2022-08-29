@@ -9,6 +9,11 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 
+
+[LOS ANGELES: OLDEST KNOWN PHOTOGRAPHS, A true Old World compilation, Antiquitech, Aqueduct, Tunnels](https://www.youtube.com/watch?v=vGTrD2GUm5Q)
+
+![FAMiLY...We_did_it_Coral, shout outs if its safe for you](https://cdn.britannica.com/40/175340-050-7B8EB154/scene-One-Hundred-and-Dalmations.jpg)
+
 [How Tatler cover star Tallulah Bankhead became the inspiration for Disney’s Cruella de Vil](https://www.tatler.com/article/tallulah-bankhead-cruella-de-vil)
 
 <IMG src="https://media.vanityfair.com/photos/60ad0575d4ff60d336a0244c/4:3/w_1776,h_1332,c_limit/Tallulah-Bankhead-1932-tout.jpg">
