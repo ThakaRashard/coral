@@ -15,8 +15,7 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 <IMG src="https://i.discogs.com/6xMRdauctYKgCC3n3vfpPyMaXVc1k_804leBhHBwGUE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjc3/MTItMTQ1NjY1ODQ4/Ny04NDkyLmpwZWc.jpeg">
 <img src="https://cdn.shoplightspeed.com/shops/636018/files/46268951/1500x4000x3/ben-jorge-samba-esquema-novo-lp-clear-vinyl.jpg">
 
-<IMG src="https://i.ebayimg.com/images/g/nnkAAOSw2gxYpA59/s-l600.jpg">
-<iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/1LTKBZNFRu4f6dnlJuH3wh?utm_source=generator" width="100%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 <IMG src="https://i.discogs.com/GXQZnraIeTJnxUPGzQZ3i28T-xjLKcdphc_SZT94Yhw/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjQ0/NzktMTQzNDcwNTQ4/OS0yNzA2LmpwZWc.jpeg">
 <iframe style="border-radius:1px" src="https://open.spotify.com/embed/album/1KHLKEiSVP5c93Zdo21I4Z?utm_source=generator" width="100%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <IMG src="https://www.net-a-porter.com/variants/images/2009602609739/fr/w2000_q60.jpg">
