@@ -8,8 +8,8 @@
 
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
-
-
+[NiJA_YA_MAMACOUSINAUNTIEBIGYMCASTYELESITERTHING_GOT_NU_MUZiK](https://soundcloud.com/nija-music/sets/dont-say-i-didnt-warn-you-1?utm_source=clipboard&utm_campaign=wtshare&utm_medium=widget&utm_content=https%253A%252F%252Fsoundcloud.com%252Fnija-music%252Fsets%252Fdont-say-i-didnt-warn-you-1)
+[The Land That Time Forgot](https://www.youtube.com/watch?v=QtF_1hoXe1M)
 <IMG src="https://i.ebayimg.com/images/g/nnkAAOSw2gxYpA59/s-l600.jpg">
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/1LTKBZNFRu4f6dnlJuH3wh?utm_source=generator" width="100%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <IMG src="https://i.discogs.com/6xMRdauctYKgCC3n3vfpPyMaXVc1k_804leBhHBwGUE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjc3/MTItMTQ1NjY1ODQ4/Ny04NDkyLmpwZWc.jpeg">
