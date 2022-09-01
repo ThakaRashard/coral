@@ -9,6 +9,9 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 
+## AUTHENTiC_U_T_I_GRAFFiTi
+Shit like this why they prostituted everyone
+
 <IMG src="https://www.graffiti.org/la/uti.jpg">
 
 ## Coral, we will be exonerated and reunified, Kelela had a baby
