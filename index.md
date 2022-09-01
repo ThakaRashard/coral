@@ -8,6 +8,15 @@
 
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
+
+
+
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/0mmjsFj4KUS9OqtfIJotlk?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/yRmuwjYLuDE" title="Artifacts - Art of Facts (Exclusive Video) That's Them 20th Anniversary Edition" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/Tn30EIvTKd4" title="Artifacts - Art of Graff" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/GM92f-BUoow" title="Artifacts - Wrong Side Of Da Tracks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4YopL54p0NX2oftB5GF8bo?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 [NiJA_YA_MAMACOUSINAUNTIEBIGYMCASTYELESITERTHING_GOT_NU_MUZiK](https://soundcloud.com/nija-music/sets/dont-say-i-didnt-warn-you-1?utm_source=clipboard&utm_campaign=wtshare&utm_medium=widget&utm_content=https%253A%252F%252Fsoundcloud.com%252Fnija-music%252Fsets%252Fdont-say-i-didnt-warn-you-1)
 [The Land That Time Forgot](https://www.youtube.com/watch?v=QtF_1hoXe1M)
 <IMG src="https://i.ebayimg.com/images/g/nnkAAOSw2gxYpA59/s-l600.jpg">
