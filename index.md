@@ -10,6 +10,9 @@
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 
 
+## LYRiCS, write  down every name and look them up on Wikipedia
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/1AoZy8K7qsw" title="Leaving the Past" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [MiSTER_RAVEN is an old mentor&fan&freind of mine from The SouthEast](https://forum.12ozprophet.com/profile/180767-misteraven/)
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/3bOvAqhaZNSWpGVIvHEx8B?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/0mmjsFj4KUS9OqtfIJotlk?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
