@@ -9,6 +9,9 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 
+
+<IMG src="https://www.graffiti.org/la/woarhd1.jpg">
+
 ## AUTHENTiC_U_T_I_GRAFFiTi
 Shit like this why they prostituted everyone
 
