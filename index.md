@@ -7,7 +7,14 @@
 
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
-
+## Dear Coral,
+### LOMOGRAPHY KONSTRUKTOR REVIEW: THE $35 CAMERA YOU BUILD YOURSELF
+[LOMOGRAPHY KONSTRUKTOR REVIEW: THE $35 CAMERA YOU BUILD YOURSELF](https://www.theverge.com/2014/1/14/5307088/lomography-konstruktor-review)
+Coral, I like this project... who ever you are around should make sure you have a camera, This a a good steet photography rig
+<IMG src="https://cdn.vox-cdn.com/thumbor/XSu3FsVMHpp957V5ElWmRpu1Y5Y=/0x0:1100x733/1070x602/filters:focal(462x278:638x454):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/61161739/konstruktor_hero.1419980253.0.jpg">
+<IMG src="https://microsites.lomography.com/konstruktor/images/packaging_open.jpg"> 
+ [KONSTRUCTOR_SAMPLES](https://www.lomography.com/cameras/3348389-lomography-konstruktor/photos)
+ <hr>
 <iframe width="100%" height="250" src="https://www.youtube.com/embed/ze7hbIO83AM" title="The Transformers G1)  Season 4 - The Rebirth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [ROAM presents: Jayda G on Fauve Radio](youtube.com/watch?v=63wzhFt3Bas)
