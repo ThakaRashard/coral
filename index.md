@@ -7,6 +7,11 @@
 
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
+<hr>
+## Coral Ol'AssUNKLESTEEEVE got something new to play with at best buy and leavee on the shelf... Check that shit out
+
+[Apple Event — September 7](https://www.youtube.com/watch?v=ux6zXguiqxM)
+
 ## Dear Coral,
 ### LOMOGRAPHY KONSTRUKTOR REVIEW: THE $35 CAMERA YOU BUILD YOURSELF
 [LOMOGRAPHY KONSTRUKTOR REVIEW: THE $35 CAMERA YOU BUILD YOURSELF](https://www.theverge.com/2014/1/14/5307088/lomography-konstruktor-review)
