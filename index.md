@@ -8,7 +8,11 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 <hr>
-## OUT_OF_PRODUCTiON_iLLTYPESHiT
+
+
+## OUT_OF_PRODUCTiON_iLLTYPESHiT::APPLE_HiFi
+### BRiTTANiKaS_APPLE_ARTiKL
+[APPLE_HiSTORY::ACCORDiNG2 ~> BRiTANNiCA](https://www.britannica.com/topic/Apple-Inc)
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
