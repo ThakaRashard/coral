@@ -8,6 +8,16 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 <hr>
+<a href="https://youtu.be/EOwhuTlxE54"><IMG src="https://images.genius.com/25b786ddd667f16a6d1f057e31054c3e.1000x1000x1.png"></a>
+<a href="https://open.spotify.com/track/7x9ShJN1xTvdqFpscZeiEj?si=76680effc7724f51"><IMG src="https://64.media.tumblr.com/54d785369174207ec5e4d6b37bf4449d/tumblr_ofb7n0y9D61qhoa53o3_1280.png"></a>
+
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="dyeYBoa" data-user="thakasartu" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/thakasartu/pen/dyeYBoa">
+  Gradient Text Overlay</a> by ThakaSartu (<a href="https://codepen.io/thakasartu">@thakasartu</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
 [12 Fun CSS Text Shadows You Can Copy and Paste](https://designshack.net/articles/css/12-fun-css-text-shadows-you-can-copy-and-paste/)
 <a href="https://youtu.be/ogHDTOUhmxQ"><IMG src="https://i.scdn.co/image/ab67616d0000b2731b86751bb9346e7a3d058a0b"></a>
 
