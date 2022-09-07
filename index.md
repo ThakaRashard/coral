@@ -8,6 +8,21 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 <hr>
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://youtu.be/pqpNwUgmxco"><img src="https://s.yimg.com/uu/api/res/1.2/PD2WCvvrMlWNGkF5ngVcmg--~B/aD00Njc7dz00NDA7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/www.engadget.com/media/2007/09/apple-hi-fi-rip.jpg" alt="##KINGSTONS_BIRTHDAY_THATS_TASHiS_SON"> </a>
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://youtu.be/iOVIfKpbwxg"><img src="https://images.reverb.com/image/upload/s--5UKTTgzE--/t_card-square/v1606131036/tnhmggoo58iz6mzxgfpz.jpg" alt="##KINGSTONS_BIRTHDAY_THATS_TASHiS_SON"> </a>
+         </div>
+    </div>
+  </div>
+</div>
 ## Coral Ol'AssUNKLESTEEEVE got something new to play with at best buy and leavee on the shelf... Check that shit out
 
 [Apple Event — September 7](https://www.youtube.com/watch?v=ux6zXguiqxM)
