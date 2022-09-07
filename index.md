@@ -9,6 +9,9 @@
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 <hr>
 
+##Dear_Coral
+Your sister Cynthia was concieved near one of these according to her mother. [SCAD's Jen Library](https://scad.libguides.com/c.php?g=164802&p=1081661) Was nothing Like [Cental in Loss_Angeles](https://www.cbsnews.com/losangeles/news/adult-film-shot-at-santa-monica-public-library-during-business-hours-sparks-outrage/), They had dope computers for everyone not just students. They had to close it to the public due to prostituition according to what I heard from a former scad professor, he work somewhere else now... Los Angeles has a rep for sexual perversion so we out here... Just code on codepen... Please dont lose your life discording and darkwebbing IDK what MATT and KENNiE and MASHONGA did with Erika... LATTOH... you dont even get the humor, but check it the population is flipping and Im sure we will cross paths again soon
+<a href="https://youtu.be/J8YtRNuhp3M"><IMG src="https://cdn.britannica.com/89/23889-004-9BE09A6D/Apple-manufacturing-plant-iMac.jpg?s=1500x700&q=85"></a>
 
 ## OUT_OF_PRODUCTiON_iLLTYPESHiT::APPLE_HiFi
 ### BRiTTANiKaS_APPLE_ARTiKL
