@@ -8,6 +8,7 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 <hr>
+[12 Fun CSS Text Shadows You Can Copy and Paste](https://designshack.net/articles/css/12-fun-css-text-shadows-you-can-copy-and-paste/)
 <a href="https://youtu.be/ogHDTOUhmxQ"><IMG src="https://i.scdn.co/image/ab67616d0000b2731b86751bb9346e7a3d058a0b"></a>
 
 ## Dear_Coral
