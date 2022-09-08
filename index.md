@@ -9,6 +9,32 @@
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 <hr>
 
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://open.spotify.com/track/37IZHbmUmuhZITM4SW6PtV?si=9e5d8cf045704d1c"><img src="https://www.martinlogan.com/uploads/images/5a3d3997d704d.jpeg" alt="##KINGSTONS_BIRTHDAY_THATS_TASHiS_SON"> </a>
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://open.spotify.com/track/37IZHbmUmuhZITM4SW6PtV?si=9e5d8cf045704d1c"><img src="https://www.martinlogan.com/uploads/images/5a3d3997d704d.jpeg" alt="##KINGSTONS_BIRTHDAY_THATS_TASHiS_SON"> </a>
+         </div>
+    </div>
+  </div>
+</div>
+<hr>
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="PoeZPJZ" data-user="thakarashard" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/thakarashard/pen/PoeZPJZ">
+  ኬሌላMODAL_POP_UP w3schools was its origin, responsive youtube popup</a> by ThakaRashard (<a href="https://codepen.io/thakarashard">@thakarashard</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/361bZ5sdeVxUdU4HzjDWZe?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+https://www.martinlogan.com/uploads/images/5a3d3997d704d.jpeg
+
 [Understanding numerals](https://fonts.google.com/knowledge/introducing_type/understanding_numerals)
 <IMG src="https://www.moma.org/media/W1siZiIsIjY2NjgwIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgMjAwMHgxNDQwXHUwMDNlIl1d.jpg?sha=4b6be7096428ff47">
 <a href="https://youtu.be/EOwhuTlxE54"><IMG src="https://images.genius.com/25b786ddd667f16a6d1f057e31054c3e.1000x1000x1.png"></a>
