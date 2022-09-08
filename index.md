@@ -9,6 +9,15 @@
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 <hr>
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3VHybOuCYoDcDfvg0b6qc1?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+## Dear Coral,
+Willie used to take me to mad stereo shops... When its time to pick equipment for the studio lets give Muni a good time, though this wagoneer is way out of my current budget, peep the ad to get a glimpse at the McLintOSH culture. Please be aware of Gear Accquisition Syndrome [GAS::GEAR_ACQUiSiTiON_SYNDROME](https://www.guitarworld.com/features/guitar-acquisition-syndrome), make sure you know when its time to stop deciding and focus on learning
+
+[Gear Acquisition Syndrome: Lustily Buying More Tools Than You Need](https://www.psychologytoday.com/us/blog/ambigamy/201110/gear-acquisition-syndrome-lustily-buying-more-tools-you-need)
+[The 7 key stages of Gear Acquisition Syndrome](https://www.musicradar.com/news/7-stages-of-gear-acquisition-syndrome)
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/yGBhQvPOoM4" title="Inside the McIntosh MX1375 in the 2022 Grand Wagoneer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <IMG src="https://www.mcintoshlabs.com/cdn-cgi/image/quality=90/-/media/images/mcintoshlabs/products/productimages/mc611/mc611-front-top.jpg?rev=3666064e41494b1aa9726698c478a147&revision=3666064e-4149-4b1a-a972-6698c478a147">
 <IMG src="https://www.mcintoshlabs.com/cdn-cgi/image/quality=90/-/media/Images/mcintoshlabs/PageImages/Automotive/Wagoneer/The-Vehicles/WS022_044WGdtrag88l44m0gg1id1h0i3llnc.jpg?rev=0a084aed4c82474c85b2a12cda308dfa&revision=0a084aed-4c82-474c-85b2-a12cda308dfa">
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/100682106&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 20px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;"><a href="https://soundcloud.com/thecaptainwhowenttolunch" title="The Captain Who Went To Lunch" target="_blank" style="color: #cccccc; text-decoration: none;">****</a> · <a href="https://soundcloud.com/thecaptainwhowenttolunch/gil-scott-heron-angel-dust" title="Gil Scott Heron- Angel Dust" target="_blank" style="color: #cccccc; text-decoration: none;">Gil Scott Heron- Angel Dust:: CORAL_YOUR_GRANDAD_KEVIN_CAN_TEACH_YOU_WHAT_THIS_SONG_MEANS</a></div>
