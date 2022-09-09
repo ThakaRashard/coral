@@ -9,6 +9,9 @@
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 <hr>
 
+<IMG src="https://i.ebayimg.com/images/g/NOsAAOSwTM5Yty6-/s-l600.jpg">
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/09akBiw2Divm9zvF7GMJup?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5pnUqheiEYAgbNb9HGEeS2?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <IMG src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/120138151_1733384926823157_4533593718676924229_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=6C7c5n4leNwAX8BlhDu&tn=D4451_EDJ29RkZEn&_nc_ht=scontent-lax3-1.xx&oh=00_AT8hS-3ED4enuDNW_mHCN0NScknR_TfIcGgx8cPlWGCyaw&oe=633ED310">
 <hr>
