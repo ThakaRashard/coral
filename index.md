@@ -453,3 +453,4 @@ Shit like this why they prostituted everyone
 3 # ANOTHER###############################################
 4 # UNiVERSE####################################CORaL#####
 {% endhighlight %}
+<a href="https://badge.fury.io/gh/ThakaSartu%2Fcoral"><img src="https://badge.fury.io/gh/ThakaSartu%2Fcoral.svg" alt="GitHub version" height="18"></a>
