@@ -12,7 +12,8 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 
 ## You been practicing?
 I sleep on concrete so my floor rocking is getting ill.. I found this dope book at Central_LAPL called CYPHER I gotta get in touch with them, They know all the kidnapped ppl from [Dance411](https://dance411.business.site/)... Im still crying about they life trapped in porn. And I ncant move in with Brandy or Kelela right now and Sartu(Normani) stalker problem is too intense to live indoors. Im trapped by the porn industry too, I cant even have a camera...
-
+## Check this out with your library card
+<IMG src="https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781576874561/cypher-9781576874561_lg.jpg">
 
 <IMG src="https://static.livebooks.com/d6efdd32176440f692f97d37812948ca/i/cc71c61725014181bc0552766da4d9b4/1/GCuCv726vxAVM9sgguVj4g/1_0_75_1cypher_breakdancers_1.jpg">
 <IMG src="https://static.livebooks.com/d6efdd32176440f692f97d37812948ca/i/e17372512a9946aaa1b760208209e2fd/1/GCuCv726vxAVM9sgguVj4g/4_0_101_1cypher_breakdancers_4.jpg">
