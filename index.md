@@ -9,7 +9,7 @@
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 <hr>
 
-
+[HACKDESiGN_LESSONS](https://hackdesign.org/lessons)
 ## Betty_Boop::HiSTORY
 <a href="https://youtube.com/shorts/Z_9sRTERg6I?feature=share">Learn about Betty Boop history here</a>
 
