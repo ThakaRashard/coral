@@ -9,6 +9,12 @@
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 <hr>
 
+## Colorized Betty Boop!!!
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/7M2FA2rjYg4" title="Betty Boop - Poor Cinderella (1934) Comedy Animated Short" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Betty Boop - Poor Cinderella (1934) Comedy Animated Short](https://www.youtube.com/watch?v=7M2FA2rjYg4)
+## Betty_Boop::HiSTORY
+<a href="https://youtube.com/shorts/Z_9sRTERg6I?feature=share">Learn about Betty Boop history here</a>
 <iframe width="100%" height="300" src="https://www.youtube.com/embed/ul2Cw9PL5Q4" title="Super Mario 64 - Commercials collection" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="100%" height="315" src="https://www.youtube.com/embed/MZvwDDd4iA4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 <hr>
  
