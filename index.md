@@ -9,23 +9,6 @@
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 <hr>
 
-[HACKDESiGN_LESSONS](https://hackdesign.org/lessons)
-## Betty_Boop::HiSTORY
-<a href="https://youtube.com/shorts/Z_9sRTERg6I?feature=share">Learn about Betty Boop history here</a>
-
-### Colorized Betty Boop!!!
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/7M2FA2rjYg4" title="Betty Boop - Poor Cinderella (1934) Comedy Animated Short" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-[Betty Boop - Poor Cinderella (1934) Comedy Animated Short](https://www.youtube.com/watch?v=7M2FA2rjYg4)
-
-
-<hr>
-<iframe width="100%" height="300" src="https://www.youtube.com/embed/ul2Cw9PL5Q4" title="Super Mario 64 - Commercials collection" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/MZvwDDd4iA4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-<hr>
- 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/255843061&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe> 
-
 ## Dear Coral
 Kelela  and I made some progress, Im in love with her(as_well) and im interested in learning Arabic at a comfortable pace, Sartu say we speak a form of Oromian that we are not aware of, its in our sentance structure, and since we know a few amharc bits and peices from assimilation and your YaJida_IMAN, I think we should be open... I think she knows Arabic however I look forward to meeting Freedom and inviting you into my life with her like I did with Muna and Sartu, These ladies not going anywhere, they making music with your mom and I just need to stay up till the porno people let them be free to choose their own partner and play the fallback game with my Ethnic_Cleansing and Economic_Assasination.
 <iframe width="100%" height="300" src="https://www.youtube.com/embed/CAkg_9Wp8wk" title="Learn Arabic With Toofa + Zaky Songs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> I can barely get a computer at the libray... Someone forced RhaHels torchure porn on me and I found her in a very dangerous place in the metro. Its a scary time for our Family Quxube know it. Listen to this Donald Gover song... Your mom and I's relationship had a similar vibe. Being from georgia, a lot of the women in Oakland are prostituted at young ages so the lure boys from Georgia into relationships to get out... Shaakira and Onika are the only people in my divine harem that did not have princess peach syndrome... Maybe Muna, I gotta ask her someday. Soundcloud hide my comments sometimes. You Matt stalkers are there as well. Like that comment where he said Im feeding Erika hot garbage under an INSTAGRAM named Pale_Faced_Goon... Anyway my darling im just checking in. That Skate park on Pacific_LBC is ILL_AS_FUCK!!! THey got a halfpipe. I wanted to ride a halfpipe all my life and finnaly found one in the wild without Social networking, prostitution, or even the internet. I am a very organic skater here and hope to meet you in the skating world since DFACS divided us... I love you... 
