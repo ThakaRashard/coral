@@ -24,17 +24,16 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 <hr>
  
 ## You been practicing?
- 
 I sleep on concrete so my floor rocking is getting ill.. I found this dope book at Central_LAPL called CYPHER I gotta get in touch with them, They know all the kidnapped ppl from [Dance411](https://dance411.business.site/)... Im still crying about they life trapped in porn. And I ncant move in with Brandy or Kelela right now and Sartu(Normani) stalker problem is too intense to live indoors. Im trapped by the porn industry too, I cant even have a camera...
 
-## Check this out with your library card
+## Check out Cypher by Charles Peterson tout with your library card
+<IMG src="https://static.livebooks.com/d6efdd32176440f692f97d37812948ca/i/ca34517214c441d2b6b94a98ad23ff23/1/GCuCv726vxAVM9sgguVj4g/19_0_84_1cypher_breakdancers_18.jpg">
 <IMG src="https://m.media-amazon.com/images/I/51anw-+4LtL.jpg">
-
 <IMG src="https://static.livebooks.com/d6efdd32176440f692f97d37812948ca/i/cc71c61725014181bc0552766da4d9b4/1/GCuCv726vxAVM9sgguVj4g/1_0_75_1cypher_breakdancers_1.jpg">
 <IMG src="https://static.livebooks.com/d6efdd32176440f692f97d37812948ca/i/e17372512a9946aaa1b760208209e2fd/1/GCuCv726vxAVM9sgguVj4g/4_0_101_1cypher_breakdancers_4.jpg">
 <IMG src="https://static.livebooks.com/d6efdd32176440f692f97d37812948ca/i/e34a7d31dec04b2caf9501194ffdd965/1/GCuCv726vxAVM9sgguVj4g/6_0_103_1cypher_breakdancers_6.jpg">
 <IMG src="https://static.livebooks.com/d6efdd32176440f692f97d37812948ca/i/a4c8b8f594b84f40a6b05bfa2d836395/1/GCuCv726vxAVM9sgguVj4g/17_0_82_1cypher_breakdancers_16.jpg">
-<IMG src="https://static.livebooks.com/d6efdd32176440f692f97d37812948ca/i/ca34517214c441d2b6b94a98ad23ff23/1/GCuCv726vxAVM9sgguVj4g/19_0_84_1cypher_breakdancers_18.jpg">
+
 <IMG src="https://static.livebooks.com/d6efdd32176440f692f97d37812948ca/i/a4ada15a1a244de09dcdffc15d15f06c/1/GCuCv726vxAVM9sgguVj4g/22_0_89_1cypher_breakdancers_22.jpg">
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/255843061&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/childish-gambino" title="Childish Gambino" target="_blank" style="color: #cccccc; text-decoration: none;">Childish Gambino</a> · <a href="https://soundcloud.com/childish-gambino/i-crawl" title="I.Crawl" target="_blank" style="color: #cccccc; text-decoration: none;">I.Crawl</a></div>
 <IMG src="https://static.livebooks.com/d6efdd32176440f692f97d37812948ca/i/c217400f6f724f47aa2d07ceb4b0d4af/1/GCuCv726vxAVM9sgguVj4g/24_0_91_1cypher_breakdancers_24.jpg">
