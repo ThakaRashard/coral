@@ -9,20 +9,26 @@
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 <hr>
 
-## Colorized Betty Boop!!!
+
+## Betty_Boop::HiSTORY
+<a href="https://youtube.com/shorts/Z_9sRTERg6I?feature=share">Learn about Betty Boop history here</a>
+
+### Colorized Betty Boop!!!
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/7M2FA2rjYg4" title="Betty Boop - Poor Cinderella (1934) Comedy Animated Short" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Betty Boop - Poor Cinderella (1934) Comedy Animated Short](https://www.youtube.com/watch?v=7M2FA2rjYg4)
-## Betty_Boop::HiSTORY
-<a href="https://youtube.com/shorts/Z_9sRTERg6I?feature=share">Learn about Betty Boop history here</a>
+
+
+<hr>
 <iframe width="100%" height="300" src="https://www.youtube.com/embed/ul2Cw9PL5Q4" title="Super Mario 64 - Commercials collection" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe width="100%" height="315" src="https://www.youtube.com/embed/MZvwDDd4iA4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 <hr>
  
 ## You been practicing?
  
 I sleep on concrete so my floor rocking is getting ill.. I found this dope book at Central_LAPL called CYPHER I gotta get in touch with them, They know all the kidnapped ppl from [Dance411](https://dance411.business.site/)... Im still crying about they life trapped in porn. And I ncant move in with Brandy or Kelela right now and Sartu(Normani) stalker problem is too intense to live indoors. Im trapped by the porn industry too, I cant even have a camera...
+
 ## Check this out with your library card
-<IMG src="https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781576874561/cypher-9781576874561_lg.jpg">
+<IMG src="https://m.media-amazon.com/images/I/51anw-+4LtL.jpg">
 
 <IMG src="https://static.livebooks.com/d6efdd32176440f692f97d37812948ca/i/cc71c61725014181bc0552766da4d9b4/1/GCuCv726vxAVM9sgguVj4g/1_0_75_1cypher_breakdancers_1.jpg">
 <IMG src="https://static.livebooks.com/d6efdd32176440f692f97d37812948ca/i/e17372512a9946aaa1b760208209e2fd/1/GCuCv726vxAVM9sgguVj4g/4_0_101_1cypher_breakdancers_4.jpg">
