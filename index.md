@@ -24,15 +24,7 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/MZvwDDd4iA4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 <hr>
  
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/255843061&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/childish-gambino" title="Childish Gambino" target="_blank" style="color: #cccccc; text-decoration: none;">Childish Gambino</a> · <a href="https://soundcloud.com/childish-gambino/i-crawl" title="I.Crawl" target="_blank" style="color: #cccccc; text-decoration: none;">I.Crawl</a></div>
-<IMG src="https://static.livebooks.com/d6efdd32176440f692f97d37812948ca/i/c217400f6f724f47aa2d07ceb4b0d4af/1/GCuCv726vxAVM9sgguVj4g/24_0_91_1cypher_breakdancers_24.jpg">
-<IMG src="https://static.livebooks.com/d6efdd32176440f692f97d37812948ca/i/d55b9bdb7aea473fbe5565ea57dbbd83/1/GCuCv726vxAVM9sgguVj4g/23_0_90_1cypher_breakdancers_23.jpg">
-<IMG src="https://static.livebooks.com/d6efdd32176440f692f97d37812948ca/i/d9d74851164f49fdafaf2fff90fda06a/1/GCuCv726vxAVM9sgguVj4g/29_0_96_1cypher_breakdancers_29.jpg">
-<IMG src="https://static.livebooks.com/d6efdd32176440f692f97d37812948ca/i/da5048d598764d9583b35b8cb6d03612/1/GCuCv726vxAVM9sgguVj4g/31_0_99_1cypher_breakdancers_31.jpg">
-<IMG src="https://static.livebooks.com/d6efdd32176440f692f97d37812948ca/i/cc71c61725014181bc0552766da4d9b4/1/GCuCv726vxAVM9sgguVj4g/1_0_75_1cypher_breakdancers_1.jpg">
-
-[SEE_THE_WHOLE_SET_HERE https://www.charlespeterson.net/cypher](https://www.charlespeterson.net/cypher)
-
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/255843061&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe> 
 
 ## Dear Coral
 Kelela  and I made some progress, Im in love with her(as_well) and im interested in learning Arabic at a comfortable pace, Sartu say we speak a form of Oromian that we are not aware of, its in our sentance structure, and since we know a few amharc bits and peices from assimilation and your YaJida_IMAN, I think we should be open... I think she knows Arabic however I look forward to meeting Freedom and inviting you into my life with her like I did with Muna and Sartu, These ladies not going anywhere, they making music with your mom and I just need to stay up till the porno people let them be free to choose their own partner and play the fallback game with my Ethnic_Cleansing and Economic_Assasination.
