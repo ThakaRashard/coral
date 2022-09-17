@@ -8,6 +8,51 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 <hr>
+<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/269925599&color=%23547464&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 30px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; "><a href="https://soundcloud.com/tycho" title="Tycho" target="_blank" style="color: #cccccc; text-decoration: none;">Tycho</a> · <a href="https://soundcloud.com/tycho/edc-sunrise" title="EDC Sunrise 2016" target="_blank" style="color: #cccccc; text-decoration: none;">EDC Sunrise 2016</a></div>
+<hr>
+<IMG src="https://static.wixstatic.com/media/5ab381_b8173ccb7c79441294b3ea3341f5b104~mv2.jpg/v1/fill/w_1404,h_1050,al_c,q_85/5ab381_b8173ccb7c79441294b3ea3341f5b104~mv2.jpg" alt="505">
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/666422090&color=%2374a4d4&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 20px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; "><a href="https://soundcloud.com/chemicalxclub" title="Chemical X Club" target="_blank" style="color: #cccccc; text-decoration: none;">Chemical X Club</a> · <a href="https://soundcloud.com/chemicalxclub/high-tide-prod-acemo-eartheater" title="Eartheater - High Tide (prod. Acemo, Eartheater)" target="_blank" style="color: #cccccc; text-decoration: none;">Eartheater - High Tide (prod. Acemo, Eartheater)</a></div>
+<hr>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://soundcloud.com/insightsaudioartgallery/ultimate-wipeout?si=6290fd3a87ac45d1bd6f6c640d352bf4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://static.wixstatic.com/media/f15be5_717c22c5bc1d4a9aacb378f27d098171~mv2.jpg/v1/fill/w_500,h_500,al_c,q_85,usm_0.66_1.00_0.01/f15be5_717c22c5bc1d4a9aacb378f27d098171~mv2.webp" alt="##KINGSTONS_BIRTHDAY_THATS_TASHiS_SON"> </a>
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://soundcloud.com/insightsaudioartgallery/ultimate-wipeout?si=6290fd3a87ac45d1bd6f6c640d352bf4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://static.wixstatic.com/media/f15be5_0aba132ee8434e5aafdc0e3fc33cbd1b~mv2.jpg/v1/fill/w_500,h_500,al_c,q_85,usm_0.66_1.00_0.01/f15be5_0aba132ee8434e5aafdc0e3fc33cbd1b~mv2.webp" alt="##KINGSTONS_BIRTHDAY_THATS_TASHiS_SON"> </a>
+         </div>
+    </div>
+  </div>
+</div>
+<hr>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/294231048&color=%235884a0&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 25px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;"><a href="https://soundcloud.com/bonobo" title="bonobo" target="_blank" style="color: #cccccc; text-decoration: none;">bonobo</a> · <a href="https://soundcloud.com/bonobo/outlier003-nts" title="OUTLIER Radio 003 on NTS" target="_blank" style="color: #cccccc; text-decoration: none;">OUTLIER Radio 003 on NTS</a></div>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/643348296&color=%23549c94&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 20px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;"><a href="https://soundcloud.com/bonobo" title="bonobo" target="_blank" style="color: #cccccc; text-decoration: none;">bonobo</a> · <a href="https://soundcloud.com/bonobo/linked" title="Linked" target="_blank" style="color: #cccccc; text-decoration: none;">Linked</a></div>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://soundcloud.com/insightsaudioartgallery/ultimate-wipeout?si=6290fd3a87ac45d1bd6f6c640d352bf4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://www.dvdsreleasedates.com/posters/800/A/Artificial-Intelligence-AI-2001-movie-poster.jpg" alt="##KINGSTONS_BIRTHDAY_THATS_TASHiS_SON"> </a>
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://soundcloud.com/insightsaudioartgallery/ultimate-wipeout?si=6290fd3a87ac45d1bd6f6c640d352bf4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://th.bing.com/th/id/OIP.vl2uEB9iu9RIAUGCId-8SgHaJ3?pid=ImgDet&rs=1" alt="##KINGSTONS_BIRTHDAY_THATS_TASHiS_SON"> </a>
+         </div>
+    </div>
+  </div>
+</div>
+<hr>
+<iframe width="100%" height="502" src="https://www.youtube.com/embed/4VfxU0bOx-I" title="A.I. Artificial Intelligence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<hr>
+<IMG src="https://th.bing.com/th/id/OIP.2t2ht6e3vGE1QppUhHuFiwHaHa?pid=ImgDet&rs=1">
+<iframe width="100%" height="502" src="https://www.youtube.com/embed/lfN9gBKu4Lc" title="The Boondocks (S03E08) - Pause Full Episode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/BzW45zDDQRA" title="Appleseed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<hr>
 ## MorningSpin
 ### Rapture [Full Album] - Anita Baker
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jqZjsscpj1E" title="Rapture [Full Album] - Anita Baker" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
