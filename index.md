@@ -8,6 +8,12 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 <hr>
+
+## Dear Coral
+Im trying out a new theme base fo ya [mamaAuntieStepMAMAafroMexiethioMoMMyTHiNG_QUXUBE.](https://thakasartu.github.io/quxube/) It does not have the flatfiile structure the hacker-theme has that gives this blog its structure... Its got sections and each page is like a post entry instead of just editing a long HTML document. [Its still Jekyllized go check it out](https://jekyllthemes.io/theme/millennial) 
+
+![MiLLENiAL_THEME](https://jekyll-themes.imgix.net/images/themes/millennial-jekyll-theme.jpg?w=1140&h=713&fm=webp&fit=crop&crop=top)
+
 <iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/269925599&color=%23547464&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 30px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; "><a href="https://soundcloud.com/tycho" title="Tycho" target="_blank" style="color: #cccccc; text-decoration: none;">Tycho</a> · <a href="https://soundcloud.com/tycho/edc-sunrise" title="EDC Sunrise 2016" target="_blank" style="color: #cccccc; text-decoration: none;">EDC Sunrise 2016</a></div>
 <hr>
 <IMG src="https://static.wixstatic.com/media/5ab381_b8173ccb7c79441294b3ea3341f5b104~mv2.jpg/v1/fill/w_1404,h_1050,al_c,q_85/5ab381_b8173ccb7c79441294b3ea3341f5b104~mv2.jpg" alt="505">
