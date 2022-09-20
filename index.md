@@ -9,6 +9,9 @@
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 <hr>
 
+[Chlöe Bailey on 'Have Mercy', Working With Beyoncé, Her Solo Debut and More](https://www.youtube.com/watch?v=j1PUeAJ3kiU)
+<hr>
+
 ## LOVE_BOMRS_iNHOUSE_DESiGN
 Coral you been fun to work with, this is the origin of the theme we using from our perspective but you can look at the [HACKER-THEME](https://github.com/pages-themes/hacker) if you want the most basic source code [SEE_THE_DEMO](https://pages-themes.github.io/hacker/)
 
