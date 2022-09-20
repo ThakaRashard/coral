@@ -8,6 +8,7 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 <hr>
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/muna/master/assets/images/stitch_to_my_MUNA.png">
 
 [Chlöe Gives Her Red & Green Flags Of Dating, Says Her New Album Gives "Bad Bitch" Energy + More](https://www.youtube.com/watch?v=WaBZXtwywTM)
 [Chlöe Bailey on 'Have Mercy', Working With Beyoncé, Her Solo Debut and More](https://www.youtube.com/watch?v=j1PUeAJ3kiU)
