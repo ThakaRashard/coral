@@ -13,6 +13,7 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 That CoronaBaeSHiT fucked up all my romance!
 
 [V103's DJ Sturgess Talks to Chloe x Halle About Their New Album](https://www.youtube.com/watch?v=1tzF2zxgNI4)
+[Hanging out with Chloe x Halle](https://www.youtube.com/watch?v=YbkDoHYa7Pw)
 
 <hr>
 
