@@ -8,6 +8,13 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 <hr>
+
+## LOVE_BOMRS_iNHOUSE_DESiGN
+Coral you been fun to work with, this is the origin of the theme we using from our perspective but you can look at the [HACKER-THEME](https://github.com/pages-themes/hacker) if you want the most basic source code [SEE_THE_DEMO](https://pages-themes.github.io/hacker/)
+
+<img src="https://raw.githubusercontent.com/ThakaSartu/coral/master/assets/images/video/bubblegumpop_thaka_and_Sartus_pet.PNG">
+<img src="https://raw.githubusercontent.com/ThakaSartu/coral/master/assets/images/video/bubblegumpop_thaka_and_Sartus_pet2.PNG">
+<hr>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6n9G36q0JwCS12oQRXCeMi?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <hr>
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/ek9O9XWCFrg" title="Chlöe Bailey On Confidence, Growth, New Music + More" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
