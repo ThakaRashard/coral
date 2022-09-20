@@ -9,6 +9,13 @@
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 <hr>
 
+## Coral what has/was your quarantine period like?
+That CoronaBaeSHiT fucked up all my romance!
+
+[V103's DJ Sturgess Talks to Chloe x Halle About Their New Album](https://www.youtube.com/watch?v=1tzF2zxgNI4)
+
+<hr>
+
 [Film Noir](https://www.filmnoirfoundation.org/)
 Expressionistic crime dramas of the 40s and 50s: tough cops and private eyes, femme fatales, mean city streets and deserted backroads, bags of loot and dirty double-crossers...[WatchMore](https://archive.org/details/Film_Noir)
 
