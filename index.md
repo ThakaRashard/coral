@@ -8,6 +8,9 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 <hr>
+
+## Coral, you can hear Sartu voice in this song Yah Ka$HDoLL_AuntieMama
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/133308104&color=%23fcbcbc&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 20px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; "><a href="https://soundcloud.com/atlhotspot" title="Atlanta Hot Spot🔥" target="_blank" style="color: #cccccc; text-decoration: none;">Atlanta Hot Spot🔥</a> · <a href="https://soundcloud.com/atlhotspot/young-thug-curtains-ft-shawty" title="Young Thug Curtains Ft. Shawty Lo &amp; Skool Boy" target="_blank" style="color: #cccccc; text-decoration: none;">Young Thug Curtains Ft. Shawty Lo &amp; Skool Boy</a></div>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/593126043&color=%236c9074&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 30px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; "><a href="https://soundcloud.com/atlhotspot" title="Atlanta Hot Spot🔥" target="_blank" style="color: #cccccc; text-decoration: none;">Atlanta Hot Spot🔥</a> · <a href="https://soundcloud.com/atlhotspot/rich-kidz-wassup" title="RICH KIDZ - WASSUP !" target="_blank" style="color: #cccccc; text-decoration: none;">RICH KIDZ - WASSUP !</a></div>
 <hr>
 # Movie_TiME
