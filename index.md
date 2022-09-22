@@ -13,11 +13,6 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 
 
 
-<h2 >
-Jason "CAMOFLAUGE" Johnson
-
-</h2>
-<h3>Hot_Grits</h3>
 
   <video width="100%" height="350px" controls preload="none" poster='https://archive.org/services/img/cheerleading-and-dance-with-the-all-american-girls-ntsc' data-setup='{ "playbackRates": [1, 1.5, 2] }'>
   <source src="https://archive.org/download/cheerleading-and-dance-with-the-all-american-girls-ntsc/Cheerleading%20and%20Dance%20with%20the%20All%20American%20Girls%20-%20NTSC.mp4" type='video/mp4' />
