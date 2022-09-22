@@ -8,6 +8,11 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 <hr>
+
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2NPxL1QqPrD1a7OLHjVcAP?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
 <IMG src="https://raw.githubusercontent.com/ThakaSartu/muna/master/assets/images/stitch_to_my_MUNA.png">
 
 [Chlöe Gives Her Red & Green Flags Of Dating, Says Her New Album Gives "Bad Bitch" Energy + More](https://www.youtube.com/watch?v=WaBZXtwywTM)
