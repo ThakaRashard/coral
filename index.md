@@ -8,6 +8,13 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 <hr>
+
+## SiX_HOURS_OF
+# SAiLOR_MOON, hows taylor swift?
+### I have not seen her outside lately
+<iframe src="https://archive.org/embed/vhs-tape-sailor-moon-volume-1" width="100%" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<h2 >
 <h2 >
 Jason "CAMOFLAUGE" Johnson
 
