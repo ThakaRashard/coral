@@ -8,6 +8,38 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 <hr>
+<h2 >
+Jason "CAMOFLAUGE" Johnson
+
+</h2>
+<h3>Hot_Grits</h3>
+
+  <video width="100%" height="350px" controls preload="none" poster='https://i.discogs.com/qL9D3TxIrQo1e4vaizTjJqtVFXIJDiuVmyEqyGLnCZc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NzEw/MzgtMTQ0NTMyMDI1/OS05MzEwLmpwZWc.jpeg' data-setup='{ "playbackRates": [1, 1.5, 2] }'>
+  <source src="https://raw.githubusercontent.com/ThakaSartu/saa2/master/assets/images/Jason_CAMOFLUAGE_Johnson_HOT_GRiTS_FEAT_DAT_BOY_FROM_BEACH.mp4" type='video/mp4' />
+
+  </video>
+<h2 >
+Lean on Me 1989 PG-13
+
+</h2>
+<h3>1h 48m</h3>
+
+  <video width="100%" height="350px" controls preload="none" poster='https://static.wikia.nocookie.net/vhs-openings/images/f/f2/Lean-on-me-8379l.jpg' data-setup='{ "playbackRates": [1, 1.5, 2] }'>
+  <source src="https://raw.githubusercontent.com/ThakaSartu/saa2/master/assets/images/video1/LEANONME_TRAiLER.mp4" type='video/mp4' />
+
+  </video>
+<hr>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5KSJ9k1FYjFLnIRlJT2wF8?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<h2 >
+Kleptomaniac Pebbles
+</h2>
+<h3>The Flintstones: Season 4, Episode 11</h3>
+
+  <video width="100%" height="350px" controls preload="none" poster='https://raw.githubusercontent.com/ThakaSartu/saa2/master/assets/images/Daddies-Anonymous-450x370.jpg' data-setup='{ "playbackRates": [1, 1.5, 2] }'>
+  <source src="https://ia801700.us.archive.org/27/items/the-flintstones/Kleptomaniac%20Pebbles.mp4" type='video/mp4' />
+
+</video>
+<hr>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5KSJ9k1FYjFLnIRlJT2wF8?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 # Hella_DBZ_EPiSODES
 ## on_ARCHiVE_dOt_oRg
