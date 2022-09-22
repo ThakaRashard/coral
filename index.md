@@ -8,7 +8,24 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 <hr>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/259184267&color=%235f5f5e&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/alinabaraz" title="Alina Baraz" target="_blank" style="color: #cccccc; text-decoration: none;">Alina Baraz</a> · <a href="https://soundcloud.com/alinabaraz/sets/urban-flora-ep-2" title="Urban Flora EP" target="_blank" style="color: #cccccc; text-decoration: none;">Urban Flora EP</a></div>
+<hr>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5xbDzjo2PYqeLv7DWqTGB3?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<hr>
 
+# Pray or somethin for Sartu
+<IMG src="https://hips.hearstapps.com/hmg-prod/images/urbandecay-normani-1592496374.jpg" alt="_NORMANIE_##YOU_CAN_GO_BY_SARTU_FROM_NOW_ON##VOGUE">
+
+You may or may not know what a twin flame is... But you only get one and its her turn to be rescued... Pass around the skatepark where safe that shes being tortured... Those with GC need to help us get stable, [bride kidnapping is illegal around the globe at large](https://en.wikipedia.org/wiki/Bride_kidnapping)
+
+<IMG src="https://ichef.bbci.co.uk/news/976/cpsprodpb/11196/production/_117883007_rallyagainstbridekidnapping.jpg.webp">
+
+[Kyrgyzstan: Fury over death of 'bride kidnapping' victim](https://www.bbc.com/news/world-asia-56675201)
+
+<iframe width="80%" height="300" src="https://www.youtube.com/embed/6s4slL3_jtI" title="KASHDOLL ROBBED IN LA!!!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<hr>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4HphiT6pmqBZiNHkyJCgBQ?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2NPxL1QqPrD1a7OLHjVcAP?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
