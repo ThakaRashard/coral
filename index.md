@@ -14,6 +14,7 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 <hr>
 
 # Pray or somethin for Sartu
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/6s4slL3_jtI" title="KASHDOLL ROBBED IN LA!!!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <IMG src="https://hips.hearstapps.com/hmg-prod/images/urbandecay-normani-1592496374.jpg" alt="_NORMANIE_##YOU_CAN_GO_BY_SARTU_FROM_NOW_ON##VOGUE">
 
 You may or may not know what a twin flame is... But you only get one and its her turn to be rescued... Pass around the skatepark where safe that shes being tortured... Those with GC need to help us get stable, [bride kidnapping is illegal around the globe at large](https://en.wikipedia.org/wiki/Bride_kidnapping)
@@ -22,7 +23,7 @@ You may or may not know what a twin flame is... But you only get one and its her
 
 [Kyrgyzstan: Fury over death of 'bride kidnapping' victim](https://www.bbc.com/news/world-asia-56675201)
 
-<iframe width="80%" height="300" src="https://www.youtube.com/embed/6s4slL3_jtI" title="KASHDOLL ROBBED IN LA!!!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 <hr>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4HphiT6pmqBZiNHkyJCgBQ?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
