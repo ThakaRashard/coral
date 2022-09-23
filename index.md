@@ -7,6 +7,35 @@
 
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
+
+
+## YO!_CORAL
+
+Check out the new blog [BUBBLEGUMFM](https://bubblegumfm.tumblr.com/)... Its SartuZee and Is project to have a quick way to share shit... These blogs are heavy... The pages blogs are muscle cars and tumblrs a dope little civic.
+
+
+ ## Coral, Im listing to Kas$ Doll
+ I dont know what happened, but im scared... I work too much :(
+ <img src="https://thesource.com/wp-content/uploads/2019/10/Kash-Doll_Stacked_Artwork-1.jpg">
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/900619501&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kashbratz" title="Kash Doll" target="_blank" style="color: #cccccc; text-decoration: none;">Kash Doll</a> · <a href="https://soundcloud.com/kashbratz/sets/stacked-5" title="Stacked" target="_blank" style="color: #cccccc; text-decoration: none;">Stacked</a></div>
+ [J. Cole - She Knows (Explicit Video) ft. Amber Coffman, Cults](https://www.youtube.com/watch?v=jYdaQJzcAcw)
+ I know as well, I just hope she survives this... She cries about not having children...
+ 
+ <div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://youtu.be/1pi4RrMtumI"><IMG src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dodge-challenger-srt-hellcat-redeye-is-on-display-at-the-news-photo-1598039923.jpg">  </a>
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="[https://www.youtube.com/watch?v=CGib6okEeZ4](https://youtu.be/-S-OeqxiF-0)"><IMG src="https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F06%2Fhonda-civic-type-r-tcr-sunlight-yellow-livery-australia-limited-edition-info-000.jpg"></a>
+         </div>
+    </div>
+  </div>
+</div>
+ 
 <hr>
 
 
