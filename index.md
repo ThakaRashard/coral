@@ -10,7 +10,7 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 
 # What your parents, siblings, peers, and admins are coping with
 ## Forms_of_wartime_violence
-Wartime Sexual Violence
+# Wartime Sexual Violence
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/2739_-_Firenze_-_Baccio_Bandinelli_-_Rilievo_del_monumento_a_Giovanni_delle_Bande_Nere_-_Foto_Giovanni_Dall%27Orto%2C_27-Oct-2007.jpg/220px-2739_-_Firenze_-_Baccio_Bandinelli_-_Rilievo_del_monumento_a_Giovanni_delle_Bande_Nere_-_Foto_Giovanni_Dall%27Orto%2C_27-Oct-2007.jpg" width:170px;height:170px;margin-left:15px alt="Pineapple" /></p>
 <p>Wartime sexual violence is rape or other forms of sexual violence committed by combatants during armed conflict, war, or military occupation often as spoils of war, but sometimes, particularly in ethnic conflict, the phenomenon has broader sociological motives. Wartime sexual violence may also include gang rape and rape with objects. A war crime, it is distinguished from sexual harassment, sexual assaults and rape committed amongst troops in military service.[1][2][3]</p>
 <p>During war and armed conflict, rape is frequently used as a means of psychological warfare in order to humiliate the enemy. Wartime sexual violence may occur in a variety of situations, including institutionalized sexual slavery, wartime sexual violence associated with specific battles or massacres, as well as individual or isolated acts of sexual violence.</p>
