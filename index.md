@@ -8,6 +8,11 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 
+# Dear_Coral,
+So Sartu does the whole "Thass_MaY_HUSBiN!!" thing and they haul her off to rape again! At least everybody in the same spot so chill. The bad foster parent deal will ice out bruh. Its gonna be fun bruh
+<iframe width="100%" height="400" src="https://www.mixcloud.com/widget/iframe/?light=1&feed=%2Ffootlongdevelopment%2Fdj-rhettmatics-the-wedding-mixer-vol-25-side-a%2F" frameborder="0" ></iframe>
+Thats a dj style you should learn, because your generation is going to see more unions celebrated and thats a nice niche for a gal like you that knows what love is from growing up with a ton of women that all married a dope ass man that you know better than them! They dont even know me that good... Just explore DonalGlovah old mix tapes and search and replace name of someone I have genital contact with aand know their poor choices in sexual partners
+<hr>
 
 # Lyrics_Lassie
 
