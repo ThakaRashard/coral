@@ -4,9 +4,23 @@
 3 # ANOTHER###############################################
 4 # UNiVERSE####################################CORaL#####
 {% endhighlight %}
+<IMG src="https://64.media.tumblr.com/9ab93e5085271a484a006e8a2b17f652/1d99a5aeb596b160-7f/s1280x1920/1df8f4707a9d4bdd4f98409be7e3043f4c38077d.gifv">
 
 ## Hole To Another Universe
-One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
+One day my blog will `RETURN true` when run from the [command](https://archive.org/details/internetarcade) line!
+<hr>
+
+## Dear_Coral,
+I embedded [DARKSTALKERS_1994(CapCom)](https://bubblegumfm.tumblr.com/post/696586326292742144/play-darkstalkers-archiveorg) to tumblr! I cant get StreetFighterAlfa to work for some reason. If you are ready to grow. Turn on [TUMBLR_LABS](https://www.tumblr.com/settings/labs) theres a ton of experimental options that will make ya tumblin experiance tru2daGAME! Of being an amazing communicator on the internet
+
+{% highlight python %}
+x = 1
+if x == 1:
+    # indented four spaces
+    print("https://www.tumblr.com/settings/labs")
+{% endhighlight %}
+
+<iframe src="https://archive.org/embed/arcade_sfa2" width="100%" height="400" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ![NO_GEOGRAPHY_WE_CAN_ALWAYS_TALK_KEEP_INTOUCH_WITH_JABDU_MEYU_FREEDOM_CYNTHIA_NINE_KALI_AND_LAURA](https://assets-global.website-files.com/5c5083b6483ac43c0d6e4e18/5cab5f903980b072ec3d6c93_Artboard%201.jpg)
 
