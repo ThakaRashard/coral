@@ -4,6 +4,9 @@
 3 # ANOTHER###############################################
 4 # UNiVERSE####################################CORaL#####
 {% endhighlight %}
+<hr>
+
+![THE_VERGE](https://www.theverge.com/_next/image?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FhyRHirls568WvDiT_tSFuFdkAE0%3D%2F0x0%3A2040x1360%2F2000x1333%2Ffilters%3Afocal(1020x680%3A1021x681)%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F19661987%2Facastro_190807_3592_best_anime_2019_0001__1_.jpg&w=1200&q=75)
 
 <hr>
 <div class='twoPanelSpread'>
