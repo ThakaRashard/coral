@@ -5,6 +5,23 @@
 4 # UNiVERSE####################################CORaL#####
 {% endhighlight %}
 
+<hr>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://youtu.be/ogHDTOUhmxQ"><img src="https://64.media.tumblr.com/cb7a98d5a68f6536acf2a11f6c3e18db/d2c91082da7154ef-42/s1280x1920/85d4d332dd30613c2f062e671d3f035f9e756d4a.jpg" alt="##KINGSTONS_BIRTHDAY_THATS_TASHiS_SON"> </a>
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://youtu.be/ogHDTOUhmxQ"><img src="https://64.media.tumblr.com/cb7a98d5a68f6536acf2a11f6c3e18db/d2c91082da7154ef-42/s1280x1920/85d4d332dd30613c2f062e671d3f035f9e756d4a.jpg" alt="##KINGSTONS_BIRTHDAY_THATS_TASHiS_SON"> </a>
+         </div>
+    </div>
+  </div>
+</div>
+<hr>
+
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
 
 # Quran: 4. Surat An-Nisa (The Women)
