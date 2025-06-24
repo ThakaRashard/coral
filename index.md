@@ -200,6 +200,7 @@ Kleptomaniac Pebbles
   <source src="https://ia803202.us.archive.org/15/items/dragon-ball-z-ocean-productionswestwood-studios-dub-2000-2002/Dragon%20Ball%20Z%20-%20Ocean%20Productions-Westwood%20Studios%20dub%20%282000-2002%29/DBZ%20108.mp4" type='video/mp4' />
 
 </video>
+
 <h2 >
 Kleptomaniac Pebbles
 </h2>
@@ -216,9 +217,13 @@ Kleptomaniac Pebbles
 
 ## Dear_Coral
 I know you have a tumblr somewhere... I have been holding the flag for the studio until someone says something thats not a yelp, scream, or scurry into a dark corner so I dont see their baby bump... Look dope on the web! Here are some supaFresh themes...[CLiCK_HERE::TELECATE_WiF_ME_4_SUPPOaT_IF_NEEDED](https://olleotathemes.tumblr.com/)
+
 <hr>
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1dF5Y2dd7Wm4wZKvVjWBpr?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 <hr>
+
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/259184267&color=%235f5f5e&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/alinabaraz" title="Alina Baraz" target="_blank" style="color: #cccccc; text-decoration: none;">Alina Baraz</a> · <a href="https://soundcloud.com/alinabaraz/sets/urban-flora-ep-2" title="Urban Flora EP" target="_blank" style="color: #cccccc; text-decoration: none;">Urban Flora EP</a></div>
 <hr>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5xbDzjo2PYqeLv7DWqTGB3?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -246,6 +251,7 @@ You may or may not know what a twin flame is... But you only get one and its her
 
 [Chlöe Gives Her Red & Green Flags Of Dating, Says Her New Album Gives "Bad Bitch" Energy + More](https://www.youtube.com/watch?v=WaBZXtwywTM)
 [Chlöe Bailey on 'Have Mercy', Working With Beyoncé, Her Solo Debut and More](https://www.youtube.com/watch?v=j1PUeAJ3kiU)
+
 <hr>
 
 ## LOVE_BOMRS_iNHOUSE_DESiGN
