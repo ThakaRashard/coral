@@ -179,18 +179,17 @@ Lean on Me 1989 PG-13
 
   </video>
 <hr>
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5KSJ9k1FYjFLnIRlJT2wF8?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-<h2 >
-Kleptomaniac Pebbles
-</h2>
+
+
+<h2>Kleptomaniac Pebbles</h2>
 <h3>The Flintstones: Season 4, Episode 11</h3>
 
   <video width="100%" height="350px" controls preload="none" poster='https://raw.githubusercontent.com/ThakaSartu/saa2/master/assets/images/Daddies-Anonymous-450x370.jpg' data-setup='{ "playbackRates": [1, 1.5, 2] }'>
   <source src="https://ia801700.us.archive.org/27/items/the-flintstones/Kleptomaniac%20Pebbles.mp4" type='video/mp4' />
 
 </video>
-<hr>
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5KSJ9k1FYjFLnIRlJT2wF8?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
 
 # Hella_DBZ_EPiSODES
 ## on_ARCHiVE_dOt_oRg
