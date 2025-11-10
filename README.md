@@ -1,4 +1,4 @@
-
+![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01629/ids/edr/browse/zcam/ZR0_1629_0811553061_831EBY_N0790488ZCAM09712_1100LMJ01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01629/ids/edr/browse/zcam/ZR0_1629_0811553061_831EBY_N0790488ZCAM09712_1100LMJ01_1200.jpg)
 # California Linux: DeepSpaceNet,uptime, LEarning About Northrop
 [Documenting system uptime in Linux](https://www.redhat.com/en/blog/system-uptime-linux) @nasa-jpl @redhatofficial @cityoflosangeles @ajc [CourseWork](https://www.jpl.nasa.gov/go/parts-engineering-school/programs/curriculum/)
 <iframe src="https://archive.org/embed/screen-recording-2025-07-09-122807" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
