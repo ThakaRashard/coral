@@ -10,18 +10,20 @@ layout: default
 3 # ANOTHER###############################################
 4 # UNiVERSE####################################CORaL#####
 {% endhighlight %}
-<hr>
 
 
----
-layout: default
----
+
+
+
 {% include nav.html %}
 
 
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
+@blackgirlscode Oakland. I feel u
+
+<iframe src="https://archive.org/embed/akira_20230402" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
 {% highlight python %}
