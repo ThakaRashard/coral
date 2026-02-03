@@ -21,6 +21,10 @@ layout: default
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
+
+@blackgirlscode check out our mayor in LA [L.A. Mayor Karen Bass delivers State of the City address](https://youtu.be/DK3FuT3oOKY?t=3) @nasa-jpl @nasa @whitehosue
+<img  alt="image" src="https://github.com/user-attachments/assets/6454f638-a6c1-4911-8be8-7a6dcdc84249" />
+
 @blackgirlscode Oakland. I feel u
 
 <iframe src="https://archive.org/embed/akira_20230402" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
