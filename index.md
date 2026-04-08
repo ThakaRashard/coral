@@ -40,6 +40,9 @@ layout: default
 
 # today
 
+
+![https://sdo.gsfc.nasa.gov/assets/img/latest/latest_1024_0193.jpg](https://sdo.gsfc.nasa.gov/assets/img/latest/latest_1024_0193.jpg)
+
 `CouncilWoman` Megan Kerr @StateOfCalifornia @Cityoflosangeles @la-county-isd [district5@longbeach.gov](mailto:district5@longbeach.gov)
 
 https://sdo.gsfc.nasa.gov/data/rules.php](https://sdo.gsfc.nasa.gov/data/rules.php)
