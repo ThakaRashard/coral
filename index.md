@@ -17,6 +17,13 @@ layout: default
 
 {% include nav.html %}
 
+[Laila's Wisdom re:coral @blackgirlscode](https://youtu.be/btYlWphnfbE)
+[WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
+[1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf)  [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf)
+[senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf) // [codepen.io/thakarashard/pen/YzMEOGN](https://codepen.io/thakarashard/pen/YzMEOGN)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/8cd3b23d-79d4-4173-9860-45d9b8fff25c" />
+
 # _NASA’s Artemis II Crew Beams Official Moon Flyby Photos to Earth_
 [Read @CityOfLosAngeles @la-county-isd @foratlanta @blackgirlscode](https://www.nasa.gov/news-release/nasas-artemis-ii-crew-beams-official-moon-flyby-photos-to-earth/) 
 [https://images-assets.nasa.gov/image/art002e009571/art002e009571~large.jpg?w=1920&h=1440&fit=clip&crop=faces%2Cfocalpoint](https://images-assets.nasa.gov/image/art002e009571/art002e009571~large.jpg?w=1920&h=1440&fit=clip&crop=faces%2Cfocalpoint)
@@ -37,7 +44,12 @@ layout: default
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 # Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
+[Laila's Wisdom re:coral @blackgirlscode](https://youtu.be/btYlWphnfbE)
+[WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
+[1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf)  [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf)
+[senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf) // [codepen.io/thakarashard/pen/YzMEOGN](https://codepen.io/thakarashard/pen/YzMEOGN)
 
+<img   alt="image" src="https://github.com/user-attachments/assets/8cd3b23d-79d4-4173-9860-45d9b8fff25c" />
 # today
 
 
